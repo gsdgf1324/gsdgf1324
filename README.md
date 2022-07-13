@@ -75,5 +75,3 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true"/>
  
 </div>
-
-<hr/>
