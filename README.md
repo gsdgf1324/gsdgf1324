@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Nsis-003791?style=flat-square&logo=Nsis&logoColor=white"/></a> 
 
+<a href="https://ji-musclecode.tistory.com/"><img src="https://img.shields.io/badge/09B3AF?style=flat-square&logo=Storyblok&logoColor=white&link=내링크"/></a>
