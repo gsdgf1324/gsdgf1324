@@ -72,8 +72,16 @@ Here are some ideas to get you started:
 
   ✨ **Most Used Languages** ✨ 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true"/>
+<hr/>
+
+<div align="center">
+  
+  ✨ **Git Stats** ✨ 
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true"/>
+  
+</div>
