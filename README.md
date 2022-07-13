@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Nsis-003791?style=flat-square&logo=Nsis&logoColor=white"/></a> 
 
 <a href="https://ji-musclecode.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Blog : &logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog : -09B3AF?style=flat-square&logo=Blog : &logoColor=white"/>
   <a href="https://ji-musclecode.tistory.com/">https://ji-musclecode.tistory.com/</a>
 </a>
