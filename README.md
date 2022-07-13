@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   
 <div align="center">
   
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
 🔧 Tech 🔧
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -48,7 +50,6 @@ Here are some ideas to get you started:
   
 </div>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <hr/>
 
