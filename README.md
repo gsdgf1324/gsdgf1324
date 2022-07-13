@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<div algin="center">
+<div align="left">
   
 🔧 Tech 🔧
   
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Nsis-003791?style=flat-square&logo=Nsis&logoColor=white"/></a> 
 </div>
 
-<div align="center">
+<div align="right">
   🧰 Tools 🧰
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
