@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://ji-musclecode.tistory.com/">
-    <img src="https://img.shields.io/badge/ Tech Blog -09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
-  </a>
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true)
-
-
 <hr/>
 <div align="center">
   
@@ -46,4 +37,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Nsis-003791?style=flat-square&logo=Nsis&logoColor=white"/></a> 
 
 </div>
+<hr/>
+
+<hr/>
+<div align="center">
+  <a href="https://ji-musclecode.tistory.com/">
+    <img src="https://img.shields.io/badge/ Tech Blog -09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
+  </a>
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true)
 <hr/>
