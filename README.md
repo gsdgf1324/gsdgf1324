@@ -43,7 +43,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
-<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
