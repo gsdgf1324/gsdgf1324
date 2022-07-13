@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 <div align="center">
   
   🧰 Tools 🧰
-  
-  <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a>  
+
+  <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Jira/Wiki-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a> 
   
 </div>
   
