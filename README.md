@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 
 <a href="https://ji-musclecode.tistory.com/">
   <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Blog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Blog&logoColor=white"/>
 </a>
