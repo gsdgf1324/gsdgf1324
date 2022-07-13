@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
-<hr/>
 <div align="center">
   <a href="https://ji-musclecode.tistory.com/">
     <img src="https://img.shields.io/badge/ Tech Blog -09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
