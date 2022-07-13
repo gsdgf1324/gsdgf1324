@@ -37,11 +37,13 @@ Here are some ideas to get you started:
   </div>
 <hr/>
 
-<div>
+<div align="center">
   <a href="https://ji-musclecode.tistory.com/">
     <img src="https://img.shields.io/badge/ Tech Blog -09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
+<div>
