@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <hr/>
-<div align="center">
+<div>
   
 <div algin="center">
   
