@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
 
-  <div align="right">
-  
 🔧 **Tech** 🔧
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
