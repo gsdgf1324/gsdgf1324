@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <hr/>
 <div align="center">
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-
 <div algin="center">
   
 🔧 Tech 🔧
@@ -38,10 +36,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Nsis-003791?style=flat-square&logo=Nsis&logoColor=white"/></a> 
 </div>
-  
-</div>
-
-<hr/>
 
 <div align="center">
   🧰 Tools 🧰
@@ -54,6 +48,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
 </div>
+
+</div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+<hr/>
 
 <div align="center">
   <a href="https://ji-musclecode.tistory.com/">
