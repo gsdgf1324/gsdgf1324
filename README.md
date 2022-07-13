@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   
 <div align="center">
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  
 🔧 Tech 🔧
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -58,7 +56,7 @@ Here are some ideas to get you started:
   
 <div align="center">
   
-  📖 Study 📖
+  📖 Record 📖
 
   <a href="https://ji-musclecode.tistory.com/">
     <img src="https://img.shields.io/badge/ Tech Blog -09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
@@ -68,5 +66,10 @@ Here are some ideas to get you started:
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true)
-<hr/>
+<div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true"/>
+ 
+</div>
