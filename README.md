@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  🧰 Tools 🧰
+  🧰 **Tools** 🧰
 
   <img src="https://img.shields.io/badge/Git/Github-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a> 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  📖 Record 📖
+  📖 **Record** 📖
 
   <a href="https://ji-musclecode.tistory.com/">
     <img src="https://img.shields.io/badge/ Tech Blog -09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> 
@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<div>
+<div align="center">
 
-  ✨ Most Used Languages ✨ 
+  ✨ **Most Used Languages** ✨ 
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
 </div>
 
