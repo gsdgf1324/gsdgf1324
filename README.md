@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  <div align="center">
+<div align="center">
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 🔧 **Tech** 🔧
   
