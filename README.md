@@ -53,7 +53,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> 
   
 </div>
-  
+
+<hr/>
+
 <div align="center">
   
   📖 Record 📖
@@ -73,3 +75,5 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=github_dark&show_icons=true"/>
  
 </div>
+
+<hr/>
