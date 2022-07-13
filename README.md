@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324)](https://github.com/gsdgf1324/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=blue-green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdgf1324&theme=rose_pine&show_icons=true)
