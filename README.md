@@ -1,4 +1,6 @@
-### 안녕하세요! 항상 긍정적인 모습으로 발전하고자 노력하는 개발자 김정인 입니다. 🤗
+###
+
+- 안녕하세요! 항상 긍정적인 모습으로 발전하고자 노력하는 개발자 김정인 입니다. 🤗
 
 <!--
 **gsdgf1324/gsdgf1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
