@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JSP-FF7800?style=flat-square&logo=JSP&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Nsis-003791?style=flat-square&logo=Nsis&logoColor=white"/></a> 
 
