@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <hr/>
-<div>
-  
+
 <div algin="center">
   
 🔧 Tech 🔧
@@ -47,8 +46,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> 
-</div>
-
 </div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdgf1324&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
